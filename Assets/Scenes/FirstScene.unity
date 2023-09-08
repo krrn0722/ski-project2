@@ -237,7 +237,7 @@ MonoBehaviour:
   m_text: "\u30B2\u30FC\u30E0\u30B9\u30BF\u30FC\u30C8"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 917eefe2cb847df42908226bfb255ffc, type: 2}
-  m_sharedMaterial: {fileID: -2297770333754020967, guid: 917eefe2cb847df42908226bfb255ffc, type: 2}
+  m_sharedMaterial: {fileID: -939591456671397969, guid: 917eefe2cb847df42908226bfb255ffc, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1118,7 +1118,7 @@ MonoBehaviour:
   m_text: "  \u306A\u307E\u3048\u3092\u3044\u308C\u3066\u306D"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 917eefe2cb847df42908226bfb255ffc, type: 2}
-  m_sharedMaterial: {fileID: -2297770333754020967, guid: 917eefe2cb847df42908226bfb255ffc, type: 2}
+  m_sharedMaterial: {fileID: -939591456671397969, guid: 917eefe2cb847df42908226bfb255ffc, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1252,8 +1252,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Ski Project
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 917eefe2cb847df42908226bfb255ffc, type: 2}
+  m_sharedMaterial: {fileID: -939591456671397969, guid: 917eefe2cb847df42908226bfb255ffc, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1682,7 +1682,7 @@ MonoBehaviour:
   m_text: "\u200B"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 917eefe2cb847df42908226bfb255ffc, type: 2}
-  m_sharedMaterial: {fileID: -2297770333754020967, guid: 917eefe2cb847df42908226bfb255ffc, type: 2}
+  m_sharedMaterial: {fileID: -939591456671397969, guid: 917eefe2cb847df42908226bfb255ffc, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
