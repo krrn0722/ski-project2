@@ -17,12 +17,6 @@ public class RankingScripts : MonoBehaviour
     public TextMeshProUGUI thirdNameText;
     public TextMeshProUGUI thirdTimeText;
 
-    // サーバーにハイスコアを保存 -------------------------
-    // 名前を保存
-    public void save()
-    {
-    }
-
     // サーバーからランキングを取得  -----------------
     void Start()
     {
