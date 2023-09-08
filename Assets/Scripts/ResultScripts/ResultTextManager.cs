@@ -17,7 +17,7 @@ public class ResultTextManager : MonoBehaviour
         myNameText.text = UserPublicScript.userName + "のタイム";
 
         //クリアタイム
-        myTimeText.text =  UserPublicScript.clearTime.ToString() + "秒";
+        myTimeText.text =  UserPublicScript.clearTime.ToString("F5") + "秒";
 
     }
 }

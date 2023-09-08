@@ -20,5 +20,6 @@ public class Timer : MonoBehaviour
 
         // 小数2桁にして表示
         GetComponent<Text>().text = countTime.ToString("F2");
+        UserPublicScript.clearTime = countTime;
     }
 }

@@ -8,7 +8,7 @@ public class EndRetryButton : MonoBehaviour
 {
     public void OnClickGameRetry()
     {
-       SceneManager.LoadSceneAsync("SampleScene");
+       SceneManager.LoadSceneAsync("sample2");
     }
 
     public void OnClickGameEnd()
