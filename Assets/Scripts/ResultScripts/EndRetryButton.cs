@@ -4,11 +4,15 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-public class StatrButton : MonoBehaviour
+public class EndRetryButton : MonoBehaviour
 {
-    // ボタンが押された時、名前を保存、ゲームスタート
-    public void OnClickGameStart()
+    public void OnClickGameRetry()
     {
        SceneManager.LoadSceneAsync("SampleScene");
+    }
+
+    public void OnClickGameEnd()
+    {
+       SceneManager.LoadSceneAsync("FirstScene");
     }
 }

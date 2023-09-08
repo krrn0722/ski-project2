@@ -14,7 +14,7 @@ public class ResultTextManager : MonoBehaviour
         //ユーザー名
         // オブジェクトからTextコンポーネントを取得
         // テキストの表示を入れ替える
-        myNameText.SetText(UserPublicScript.userName);
+        myNameText.text = UserPublicScript.userName + "のタイム";
 
         //クリアタイム
         myTimeText.text =  UserPublicScript.clearTime.ToString() + "秒";
