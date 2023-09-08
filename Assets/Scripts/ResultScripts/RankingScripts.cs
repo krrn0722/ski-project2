@@ -54,11 +54,11 @@ public class RankingScripts : MonoBehaviour
                         break;
                     default:
                         firstNameText.text = objList[0]["Name"].ToString();
-                        firstTimeText.text = objList[0]["Time"].ToString();
+                        firstTimeText.text = objList[0]["Time"].ToString() + "秒";
                         secondNameText.text = objList[1]["Name"].ToString();
-                        secondTimeText.text = objList[1]["Time"].ToString();
+                        secondTimeText.text = objList[1]["Time"].ToString() + "秒";
                         thirdNameText.text = objList[2]["Name"].ToString();
-                        thirdTimeText.text = objList[2]["Time"].ToString();     
+                        thirdTimeText.text = objList[2]["Time"].ToString() + "秒";     
                         break;
                 }
             }
