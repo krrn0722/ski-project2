@@ -4,15 +4,11 @@ using UnityEngine;
 
 public class goal : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+// 当たり判定
+void OnCollisionEnter(Collision collision)
+{
+      Debug.Log("Hit"); // ログを表示する
+}
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 }
